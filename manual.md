@@ -13,6 +13,8 @@
 [손 건](mailto:fjen6b@gmail.com),
 [홍 승환](mailto:hj332921@gmail.com)
 
+이 매뉴얼의 간단한 버전에 해당하는 문서도 있습니다. [가이드북 - 해커톤 계획하기](http://www.snpo.kr/bbs/board.php?bo_table=npo_aca&wr_id=486) 이며 서울시 NPO 지원센터에서, 코드나무 자원활동가들이 [원문](http://socrata.com/wp-content/uploads/2013/05/How-to-Run-a-Hackathon.pdf)을 번역 자료 추가해서 만들었습니다. 같이 보시면 도움이 될 듯합니다.
+
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" width="80px"></img> 
 이 문서는 크리에이티브 커먼즈 저작자표시 2.0 대한민국 라이선스에 따라 
 누구나 이용할 수 있습니다.
