@@ -27,7 +27,9 @@
 이 문서는 크리에이티브 커먼즈 저작자표시 2.0 대한민국 라이선스에 따라 
 누구나 이용할 수 있습니다.
 
-CC-BY-NC-SA : 공유하시려면, 별도의 허가는 필요없고, 출처를 밝히시면 됩니다.
-이 문서의 상업적 사용은 안됩니다. 문서를 수정, 변형을 하여 공유하셔도 되는데 반드시 CC-BY-NC-SA 저작권을 적용하시는 조건입니다.
+[CC-BY-NC-SA 2.0 (Creative Commons License Attribution-NonCommercial-ShareAlike)](https://creativecommons.org/licenses/by-nc-sa/2.0/): 
+비상업적으로 공유하신다면 별도의 허가는 필요없고, 출처만 밝히시면 됩니다.
+문서를 수정하거나 변형하여 공유해도 됩니다만, 반드시 같은 CC-BY-NC-SA
+저작권을 적용하시는 조건입니다.
 
 출처는 : https://github.com/KMU-OSS-Laboratory/Hackathon-Manual 입니다.
