@@ -302,6 +302,7 @@
 * 온오프믹스 https://onoffmix.com
 * 이벤터스 https://event-us.kr
 * 밋업 https://www.meetup.com/ko-KR
+* festa.&#8203;io https://festa.io/
 
 참가자 모집 양식 자체는 구글 설문지 도구를 활용하면 편하다.
 
