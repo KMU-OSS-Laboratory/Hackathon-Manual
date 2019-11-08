@@ -15,6 +15,13 @@
 
 이 매뉴얼의 간단한 버전에 해당하는 문서도 있습니다. [가이드북 - 해커톤 계획하기](http://www.snpo.kr/bbs/board.php?bo_table=npo_aca&wr_id=486) 이며 서울시 NPO 지원센터에서, 코드나무 자원활동가들이 [원문](http://socrata.com/wp-content/uploads/2013/05/How-to-Run-a-Hackathon.pdf)을 번역 자료 추가해서 만들었습니다. 같이 보시면 도움이 될 듯합니다.
 
+### 심각한 읽을 거리
+
+또 해커톤을 진지하게 준비하신다면, SAP 엔지니어링본부의 종괄디자인그룹 PM이신 김영욱 님의 아래 글들을 꼭 읽어보시기를 권해드립니다.
+
+* [Project Management 기술을 적극 활용/적용하기](https://brunch.co.kr/@ywkim36/6)
+* [UX/UI 디자이너를 특별대우하세요](https://brunch.co.kr/@ywkim36/7)
+
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png" width="80px"></img> 
 이 문서는 크리에이티브 커먼즈 저작자표시 2.0 대한민국 라이선스에 따라 
 누구나 이용할 수 있습니다.
